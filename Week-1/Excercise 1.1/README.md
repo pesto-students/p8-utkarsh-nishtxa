@@ -6,11 +6,12 @@ First let us explore the key functionality of the browser.
 A Browser is an application software that enables a users to look for, access, view websites. websites are collections of files such as HTML, CSS, Javascript, and images, which tells a browser how it can display the site and its related data such as images.
 Web browsers are mainly used to display and access websites on the internet, as well as other content created with programming languages such as Hypertext Markup Language (HTML) and Extensible Markup Language (XML). 
 Browsers can work with different protocols such as Hypertext Transfer Protocol (HTTP), secure HTTP (HTTPS), File Transfer Protocol (FTP), email handling, and files. 
-A web browser’s main objective is to render HTML. When a web page is loaded on a browser, it processes the HTML, which may contain data such as text, links, and references to images and other items such as CSS and JavaScript functions. Then these objects are rendered by browser in the browser window after being processed. Web browser supports various types of HTML (such as XHTML and HTML 5), dynamic JavaScript, and secure website encryption. Developers can build highly interactive websites due to the capabilities of modern web browsers. Ajax, for instance, allows a web browser to dynamically update the data on a webpage without requiring the page to be reloaded. CSS advancements allows a browsers to display responsive website layouts, and browsers use cookies to store your preferences for specific websites.
+A web browserâ€™s main objective is to render HTML. When a web page is loaded on a browser, it processes the HTML, which may contain data such as text, links, and references to images and other items such as CSS and JavaScript functions. Then these objects are rendered by browser in the browser window after being processed. Web browser supports various types of HTML (such as XHTML and HTML 5), dynamic JavaScript, and secure website encryption. Developers can build highly interactive websites due to the capabilities of modern web browsers. Ajax, for instance, allows a web browser to dynamically update the data on a webpage without requiring the page to be reloaded. CSS advancements allows a browsers to display responsive website layouts, and browsers use cookies to store your preferences for specific websites.
 
 Now let us explore High level Components of a browser with the help of a diagram
 
- 
+ ![image](https://user-images.githubusercontent.com/120875265/208314394-bfc152d2-8590-4ed9-935d-b002b34caef8.png)
+
 
 
 
